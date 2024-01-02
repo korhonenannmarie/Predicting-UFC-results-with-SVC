@@ -1,1 +1,1 @@
-Tried out my first ML project for the Machine Learning course at Aalto University. Note that there are some issues with the validation of the model.
+Tried out my first ML project for the Machine Learning course at Aalto University. Note that there are some issues with the validation of the model. The .pdf file is answering questions directly asked in the assignment. The .ipynb file is the code without the explanations.
